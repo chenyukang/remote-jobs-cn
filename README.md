@@ -20,7 +20,7 @@
 
 [关于 | 涛思数据 (taosdata.com)](https://www.taosdata.com/cn/about/)
 
-[开源 –—— “这是最好的时代，这是最坏的时代”｜陶建辉](https://xueqiu.com/4826147079/166899232)
+[开源 —— “这是最好的时代，这是最坏的时代”｜陶建辉](https://xueqiu.com/4826147079/166899232)
 
 ## [MegaEase](https://www.megaease.com/zh/)
 职位：[Hiring@MegaEase.com](mailto:Hiring@MegaEase.com)
@@ -32,9 +32,9 @@
 ## [秘猿科技 | cryptape](https://www.cryptape.com/)
 职位：[cryptape](https://www.cryptape.com/join)
 行业：区块链
-技术：Rust
+技术：Rust，C/C++ 等
 
-[秘猿科技 招聘区块链开发工程师/Rust 开发工程师/全栈开发/高级运维开发工程师/资深研究员/C++软件开发/Technical Writer - V2EX](https://www.v2ex.com/t/825555#reply2)
+[秘猿科技 招聘区块链开发工程师/Rust 开发工程师/全栈开发](https://www.v2ex.com/t/825555#reply2)
 
 ## [RustDesk](https://rustdesk.com/)
 职位：[Contact (rustdesk.com)](https://rustdesk.com/contact/)
