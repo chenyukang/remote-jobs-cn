@@ -1,5 +1,5 @@
 
-# 国内远程办公职位
+# 国内远程办公招聘
 
 目前国内有一些公司开始提供远程工作机会，我认为这是一个很好的趋势。
 
@@ -35,6 +35,13 @@
 - 技术：Rust，C/C++ 等
 
 [秘猿科技 招聘区块链开发工程师/Rust 开发工程师/全栈开发](https://www.v2ex.com/t/825555#reply2)
+
+## VMWAre 
+- 职位：数据库内核开发
+- 行业： 虚拟化
+- 技术：C,  k8s 、网络、存储、虚拟化
+
+[[北京][955]VMware 招聘 Greenplum 数据库内核开发 - V2EX](https://v2ex.com/t/787613)
 
 ## [RustDesk](https://rustdesk.com/)
 - 职位：[Contact (rustdesk.com)](https://rustdesk.com/contact/)
