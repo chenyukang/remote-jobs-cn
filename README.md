@@ -36,7 +36,13 @@
 
 [秘猿科技 招聘区块链开发工程师/Rust 开发工程师/全栈开发](https://www.v2ex.com/t/825555#reply2)
 
-## VMWAre 
+## [FydeOS - 面向未来的操作系统](https://fydeos.com/)
+- 职位：操作系统底层工程师、Android 底层工程师、C/C++ 底层软件工程师、前端
+- 行业：操作系统
+
+[[北京/武汉/深圳/远程] FydeOS - V2EX](https://v2ex.com/t/798123#reply53)
+
+## [VMware](https://www.vmware.com/) 
 - 职位：数据库内核开发
 - 行业： 虚拟化
 - 技术：C,  k8s 、网络、存储、虚拟化
